@@ -1,0 +1,13 @@
+# Sensitive files — never commit these
+*.env
+secrets.txt
+api-keys.txt
+credentials.txt
+
+# Power Platform exported solution files (too large for git)
+*.zip
+*.msapp
+
+# OS files
+.DS_Store
+Thumbs.db
