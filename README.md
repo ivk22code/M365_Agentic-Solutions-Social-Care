@@ -2,6 +2,8 @@
 
 An AI-powered crisis prevention tool for adult social care caseworkers, built entirely on Microsoft Power Platform with no code.
 
+Disclaimer: This repository is a technical exploration of the Microsoft Power Platform. It is not a production-ready tool and was developed as a learning project. I am not a social care professional; the logic here is intended to demonstrate technical integration, not clinical or legal advice.
+
 ## What it does
 
 Caseworkers submit case assessments either through a Power Apps form or by chatting with an AI agent in Microsoft Teams. The system automatically analyses the case, suggests a RED / AMBER / GREEN risk rating, asks the caseworker to confirm or override the suggestion, then alerts the duty manager and guides the caseworker through next steps — all within seconds of submission.
