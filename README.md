@@ -2,7 +2,7 @@
 
 An AI-powered crisis prevention tool for adult social care caseworkers, built entirely on Microsoft Power Platform with no code.
 
-Disclaimer: This repository is a technical exploration of the Microsoft Power Platform. It is not a production-ready tool and was developed as a learning project. I am not a social care professional; the logic here is intended to demonstrate technical integration, not clinical or legal advice.
+Disclaimer: This repository is a technical exploration of Copilot Studio and Microsoft Power Platform. It is not a production-ready tool and was developed as a learning project. I am not a social care professional; the logic here is intended to demonstrate technical integration, not clinical or legal advice.
 
 ## What it does
 
